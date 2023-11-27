@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW5AST-138B" package="FCPBGA676A" speed="1" partNumber="GW5AST-LV138FPG676AES"/>
+    <FileList>
+        <File path="F:\EMB_pub\embedded\risc_v\ae350_soc\ref_design\1.1\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_demo\src\ae350_demo.v" type="verilog"/>
+        <File path="F:\EMB_pub\embedded\risc_v\ae350_soc\ref_design\1.1\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_demo\src\gowin_pll_ae350\gowin_pll_ae350.v" type="verilog"/>
+        <File path="F:\EMB_pub\embedded\risc_v\ae350_soc\ref_design\1.1\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_demo\src\gowin_pll_ddr3\gowin_pll_ddr3.v" type="verilog"/>
+        <File path="F:\EMB_pub\embedded\risc_v\ae350_soc\ref_design\1.1\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_demo\src\key_debounce.v" type="verilog"/>
+        <File path="F:\EMB_pub\embedded\risc_v\ae350_soc\ref_design\1.1\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_demo\src\riscv_ae350_soc\riscv_ae350_soc.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="F:\EMB_pub\embedded\risc_v\ae350_soc\ref_design\1.1\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_demo\impl\gwsynthesis\ae350_demo.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="top_module" value="ae350_demo_top"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

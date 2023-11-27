@@ -1,0 +1,98 @@
+[
+ {
+  "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+  "InstLine" : 3,
+  "InstName" : "ae350_ext_ethernet_top",
+  "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+  "ModuleLine" : 3,
+  "ModuleName" : "ae350_ext_ethernet_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+    "InstLine" : 70,
+    "InstName" : "u_Gowin_PLL_AE350",
+    "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/gowin_pll_ae350/gowin_pll_ae350.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_PLL_AE350"
+   },
+   {
+    "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+    "InstLine" : 87,
+    "InstName" : "u_Gowin_PLL_DDR3",
+    "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/gowin_pll_ddr3/gowin_pll_ddr3.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_PLL_DDR3"
+   },
+   {
+    "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+    "InstLine" : 112,
+    "InstName" : "u_key_debounce_ddr3",
+    "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/key_debounce.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "key_debounce"
+   },
+   {
+    "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+    "InstLine" : 123,
+    "InstName" : "u_key_debounce_ae350",
+    "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/key_debounce.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "key_debounce"
+   },
+   {
+    "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+    "InstLine" : 194,
+    "InstName" : "u_gw_ahb_ethernet_top",
+    "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/gw_ahb_ethernet_top.v",
+    "ModuleLine" : 11,
+    "ModuleName" : "gw_ahb_ethernet_top",
+    "SubInsts" : [
+     {
+      "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/gw_ahb_ethernet_top.v",
+      "InstLine" : 72,
+      "InstName" : "u_gw_ahb_ethernet",
+      "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/gw_ahb_ethernet.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "gw_ahb_ethernet"
+     }
+    ]
+   },
+   {
+    "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+    "InstLine" : 249,
+    "InstName" : "u_Triple_Speed_Ethernet_MAC_Top",
+    "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/triple_speed_ethernet_mac/triple_speed_ethernet_mac.v",
+    "ModuleLine" : 7291,
+    "ModuleName" : "Triple_Speed_Ethernet_MAC_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/triple_speed_ethernet_mac/triple_speed_ethernet_mac.v",
+      "InstLine" : 7398,
+      "InstName" : "u_triple_speed_mac",
+      "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/triple_speed_ethernet_mac/triple_speed_ethernet_mac.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "~triple_speed_mac.Triple_Speed_Ethernet_MAC_Top"
+     }
+    ]
+   },
+   {
+    "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/ae350_ext_ethernet.v",
+    "InstLine" : 312,
+    "InstName" : "u_RiscV_AE350_SOC_Top",
+    "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/riscv_ae350_soc/riscv_ae350_soc.v",
+    "ModuleLine" : 29559,
+    "ModuleName" : "RiscV_AE350_SOC_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/riscv_ae350_soc/riscv_ae350_soc.v",
+      "InstLine" : 29739,
+      "InstName" : "u_RiscV_AE350_SOC",
+      "ModuleFile" : "F:/EMB_pub/embedded/risc_v/ae350_soc/solution/1.1/Extended_AHB_Ethernet/ref_design/FPGA_RefDesign/Tang_MEGA_138K_Pro_Dock/ae350_ext_ethernet/src/riscv_ae350_soc/riscv_ae350_soc.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "RiscV_AE350_SOC"
+     }
+    ]
+   }
+  ]
+ }
+]

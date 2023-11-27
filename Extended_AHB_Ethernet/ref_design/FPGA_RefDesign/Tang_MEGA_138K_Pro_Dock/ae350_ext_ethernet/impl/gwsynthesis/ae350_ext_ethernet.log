@@ -1,0 +1,132 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\ae350_ext_ethernet.v'
+Undeclared symbol 'GND', assumed default net type 'wire'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\ae350_ext_ethernet.v":239)
+Analyzing Verilog file 'F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gowin_pll_ae350\gowin_pll_ae350.v'
+Analyzing Verilog file 'F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gowin_pll_ddr3\gowin_pll_ddr3.v'
+Analyzing Verilog file 'F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v'
+Analyzing Verilog file 'F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet_top.v'
+Analyzing Verilog file 'F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\key_debounce.v'
+Analyzing Verilog file 'F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v'
+Analyzing Verilog file 'F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v'
+Compiling module 'ae350_ext_ethernet_top'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\ae350_ext_ethernet.v":3)
+Compiling module 'Gowin_PLL_AE350'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gowin_pll_ae350\gowin_pll_ae350.v":10)
+Compiling module 'Gowin_PLL_DDR3'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gowin_pll_ddr3\gowin_pll_ddr3.v":10)
+Compiling module 'key_debounce'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\key_debounce.v":3)
+Compiling module 'gw_ahb_ethernet_top'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet_top.v":11)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Extracting RAM for identifier '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Extracting RAM for identifier '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Extracting RAM for identifier '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\gw_ahb_ethernet.v":0)
+Compiling module 'Triple_Speed_Ethernet_MAC_Top'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":7291)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v":0)
+Compiling module 'RiscV_AE350_SOC_Top'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":29559)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+Compiling module '**'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\riscv_ae350_soc\riscv_ae350_soc.v":0)
+WARN  (EX3670) : Actual bit length 1 differs from formal bit length 16 for port 'EXT_INT'("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\ae350_ext_ethernet.v":347)
+WARN  (EX2565) : Input 'UART2_CTSN' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\ae350_ext_ethernet.v":378)
+WARN  (EX2565) : Input 'UART2_DCDN' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\ae350_ext_ethernet.v":378)
+WARN  (EX2565) : Input 'UART2_DSRN' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\ae350_ext_ethernet.v":378)
+WARN  (EX2565) : Input 'UART2_RIN' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\src\ae350_ext_ethernet.v":378)
+NOTE  (EX0101) : Current top module is "ae350_ext_ethernet_top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\impl\gwsynthesis\ae350_ext_ethernet.vg" completed
+[100%] Generate report file "F:\EMB_pub\embedded\risc_v\ae350_soc\solution\1.1\Extended_AHB_Ethernet\ref_design\FPGA_RefDesign\Tang_MEGA_138K_Pro_Dock\ae350_ext_ethernet\impl\gwsynthesis\ae350_ext_ethernet_syn.rpt.html" completed
+GowinSynthesis finish
